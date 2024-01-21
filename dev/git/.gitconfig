@@ -1,0 +1,9 @@
+[user]
+    name = Sara Ghaedi
+    email = saraghaedi75@gmail.com
+[core]
+    editor = /usr/bin/vim
+[color]
+    ui = auto
+[init]
+    defaultBranch = main
